@@ -1,4 +1,4 @@
-module github.com/brabigz/go-api-basic
+module github.com/brabigz/go-basic-api
 
 go 1.24.0
 
